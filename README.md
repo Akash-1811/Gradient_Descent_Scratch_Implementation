@@ -1,4 +1,4 @@
-# Gradient Descent Implementation
+# Gradient Descent Scratch Implementation
 
 ## Overview
 This repository contains implementations of three main gradient descent optimization algorithms used in machine learning, specifically for linear regression. The implementations include batch gradient descent, stochastic gradient descent, and mini-batch gradient descent.
